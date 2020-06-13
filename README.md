@@ -17,4 +17,5 @@ The three options are:
 -x val: allows val+1 rounds of checking (and val rounds of correction)
 -i val: runs val iterations of the program
 -n val: sets the matrix size to val
+-r val: sets the error rate to val
 For ABFT-Solve a fourth parameter -m val allows to define the number of checksums added
